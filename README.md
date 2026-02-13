@@ -13,7 +13,8 @@ Structured navigation layout
 Login / interaction interface
 Clean typography and visual styling
 Mobile-friendly design
-🛠️ Tech Stack
+
+Tech Stack
 HTML5 – Page structure
 CSS3 – Styling and layout
 Responsive Web Design – Mobile compatibility
